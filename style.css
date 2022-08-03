@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+p {
+    background: red;
+    font-size: 200px;
+    margin: 0 50;
+    text-align: center;
+    box-align: center;
+}
+
+#countdown {
+    color: white;
+}
